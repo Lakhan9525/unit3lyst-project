@@ -23,7 +23,7 @@ let navbar = () => {
 
         <div id="s-logo">
             <a href="index.html">
-                <h1>THE OUTNET</h1>
+                <h1>LYST</h1>
             </a>
         </div>
         <div id="serach-cart">
