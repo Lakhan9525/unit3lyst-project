@@ -18,17 +18,26 @@ Pages & Features 👇
 
 Home Page: Nav Bar with drop downs, sliding banners & slider for Products. Sign-In: User authentication to check whether user email and password match with details existing in the database. Search: User can search for any of the products present in the website. Product Category Page: Products created dynamically with filter by category, name and price. Cart: User can see or remove products added in the cart. Also the user can not add data to the cart without signing in to the website. Checkout Page: Users can increase, decrease the quantity of the product and can apply discount coupons. Payment Page: Users can add their payment details, address and make payment. Additional Features: Kept the branding, fonts, colors and favicon and titles consistent throughout the whole site to give a feel like the original site. Tech Stack React js Redux Javascript - (Local Storage) Tailwind Material UI Screenshots : Home Page Screenshot (61)
 
-Search DropDown Screenshot (62)
+Search DropDown
+![Screenshot (61)](https://user-images.githubusercontent.com/102020617/192693142-1dbbf1d1-dfaf-4466-b930-0b8043c2cd77.png)
 
-Navbar DropDo Screenshot (61)
 
-Signin Page Screenshot (69)
+Navbar DropDo 
+![Screenshot (61)](https://user-images.githubusercontent.com/102020617/192693176-98226fa0-b7ad-46f2-88ad-cdf8964b80c8.png)
 
-Products Page Screenshot (66)
 
-Product Details Page Screenshot (67)
+Signin Page
+![Screenshot (69)](https://user-images.githubusercontent.com/102020617/192693233-9cff0a9b-08e2-4c8d-861a-3a20354f9578.png)
 
-Cart Page Screenshot (71)
+
+Products Page 
+![Screenshot (68)](https://user-images.githubusercontent.com/102020617/192693266-2be1a62d-5e07-4b88-a04b-05f140f3f584.png)
+
+
+
+Cart Page 
+![Screenshot (71)](https://user-images.githubusercontent.com/102020617/192693298-35df8076-416e-4d8e-8a0f-570f0fea0f25.png)
+
 
 About Lyst is a fashion technology company, and premium shopping app. This is a react-redux based project in which we have cloned an e-commerce shoppinwebsite.
 
